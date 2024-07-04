@@ -5,15 +5,15 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2024-06-25T19:59:31.386Z",
-    "end": "2024-06-25T19:59:31.684Z",
-    "duration": 298
+    "start": "2024-07-04T08:58:09.677Z",
+    "end": "2024-07-04T08:58:10.337Z",
+    "duration": 660
   },
   "tests": [
     {
       "title": "should return a new array containing the first two drivers from the passed-in array",
       "fullTitle": "index.js returnFirstTwoDrivers() should return a new array containing the first two drivers from the passed-in array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "allows us to invoke either function from the array",
       "fullTitle": "index.js selectingDrivers allows us to invoke either function from the array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,7 +108,7 @@
     {
       "title": "should return a new array containing the first two drivers from the passed-in array",
       "fullTitle": "index.js returnFirstTwoDrivers() should return a new array containing the first two drivers from the passed-in array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,7 +136,7 @@
     {
       "title": "allows us to invoke either function from the array",
       "fullTitle": "index.js selectingDrivers allows us to invoke either function from the array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
